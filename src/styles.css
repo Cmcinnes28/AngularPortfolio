@@ -409,7 +409,7 @@ clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
   flex-wrap:wrap;
   margin-left: auto;
   margin-right: auto;
-  width:75%;
+  width:100%;
   
 }
 .card{
